@@ -1,0 +1,65 @@
+body {
+  margin:0px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  background-color: #E9E9DE;
+}
+/*
+margin : top, right, bottom, left
+*/
+header {
+  position: fixed;
+  height:90px;
+  background-color: #B10202;
+  width:100%;
+  color: white;
+}
+header h3 {
+  margin-top: 10px;
+  margin-bottom:0px;
+}
+header a {
+  padding-top:;
+  fone-size:10px;
+}
+header a:hover {
+  text-decoration: underline;
+  cursor: default;
+}
+.container-links {
+  margin:25px 25px 15px 25px
+}
+.container {
+  position: fixed;
+  top:90px;
+  overflow: auto;
+  bottom:100px;
+  width:100%;
+}
+#messageInput {
+  padding: 0 20px;
+  font-size: 20px;
+  position: fixed;
+  height:90px;
+  width:100%;
+  bottom: 0px;
+  left: 0px;
+}
+#name {
+  float: left;
+}
+img {
+  height:200px;
+}
+ul {
+  margin: 0px;
+  margin-left: -30px;
+}
+li {
+  list-style-type: none;
+}
+.hidden {
+  display:none;
+}
+#loginButton {
+  margin-top:;
+}
